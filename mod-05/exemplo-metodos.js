@@ -1,5 +1,4 @@
-const pessoa = 
-{
+const pessoa = {
     _nome: "", 
     get nome () {
         return this._nome
