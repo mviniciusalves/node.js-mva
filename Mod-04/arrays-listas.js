@@ -1,6 +1,7 @@
-/* Arrays são listas = conjuntos de dados ordenados
+/* 
+Arrays são listas = conjuntos de dados ordenados (coleções)
 
-Também são conhecidas comomo vetores ou matrizes
+Também são conhecidas comovetores ou matrizes
 
 Sempre em colchetes []
 
@@ -22,7 +23,7 @@ Quando não tiver nenhum valor será undefined
 ]
 
 [0] === "Bulbassaur"
-...
+[5] == undefined
 */
 
 const minhaLista = [] // lista vazia
