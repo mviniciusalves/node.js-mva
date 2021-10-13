@@ -1,5 +1,4 @@
-// metodos assessores get/set de objetos para saber quem acessa ou tenta inverir novos valores nos objetos.
-
+// metodos assessores ou modificadores get/set de objetos para saber quem acessa ou tenta inverir novos valores
 // usados para quando obter um valor, fazer alguma coisa
 
 // quanto tentar setar um novo valor ou subescrever colocar outro
@@ -11,7 +10,7 @@ const pessoa =
         return this._nome
     },
     set nome(n) {
-        this._nome = n.toUpperCase() // coloca maiucula
+        this._nome = n.toUpperCase() // coloca maiuscula
     },
 }
 

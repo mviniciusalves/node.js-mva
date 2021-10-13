@@ -3,6 +3,7 @@
 /*
 os operadores mais utilizados serão os de comparação:
 
+== igual
 < menor que
 > maior que
 === igual a (compara tipo e valor)
